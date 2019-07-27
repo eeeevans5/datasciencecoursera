@@ -1,3 +1,1 @@
-## This is a markdown file
-*test
-*test1
+This is a markdown file
